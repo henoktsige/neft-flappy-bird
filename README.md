@@ -3,7 +3,7 @@
 <img width="700" height="707" alt="preview" src="https://github.com/user-attachments/assets/f0832fcf-cb57-48c7-85db-7422b1e74ff7" />
 
 ## Table of contents
-- [Description](Deskription)
+- [Description]([Deskription](https://github.com/henoktsige/neft-flappy-bird/blob/main/README.md#description))
 - [Installation](Installation)
 - [Controls](Controls)
 - [Libraries](Libraries)
