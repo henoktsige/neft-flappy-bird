@@ -4,7 +4,7 @@
 
 ## Table of contents
 - [Description](https://github.com/henoktsige/neft-flappy-bird/blob/main/README.md#description)
-- [Installation](Installation)
+- [Installation](https://github.com/henoktsige/neft-flappy-bird/blob/main/README.md#installation)
 - [Controls](Controls)
 - [Libraries](Libraries)
 
