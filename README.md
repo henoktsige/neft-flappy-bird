@@ -6,7 +6,7 @@
 - [Description](https://github.com/henoktsige/neft-flappy-bird/blob/main/README.md#description)
 - [Installation](https://github.com/henoktsige/neft-flappy-bird/blob/main/README.md#installation)
 - [Controls](https://github.com/henoktsige/neft-flappy-bird/blob/main/README.md#controls)
-- [Libraries](Libraries)
+- [Libraries](https://github.com/henoktsige/neft-flappy-bird/blob/main/README.md#libraries)
 
 ## Description
 
